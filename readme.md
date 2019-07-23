@@ -12,7 +12,10 @@ Just run the script using command line with the *python* command or any method.
  - Next just choose the options you want to run. They are explained below.
 	  > Enter 0 to exit anytime.
 
-
+A good order to run the functions would be: 
+1. Extract
+2. Sort
+3. Delete
 
 ## Functions
 There are three functions- Extract, Sort, Delete:
